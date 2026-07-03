@@ -1,6 +1,9 @@
 # Sistema Multiagente de Pesquisa com LangChain
 
+
 Este projeto representa um **Assistente de Pesquisa Multiagente** construído com LangChain.  
+
+![Arquitetura do Sistema Multiagente](images/diagrama.png)
 A ideia principal é dividir uma tarefa complexa de pesquisa em várias etapas especializadas, onde cada agente ou cadeia tem uma responsabilidade clara dentro do fluxo.
 
 Em vez de uma única IA receber um tema e tentar responder sozinha, o sistema organiza o trabalho como uma pequena equipe de pesquisa:
