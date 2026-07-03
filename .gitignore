@@ -1,3 +1,8 @@
 .env
-.venv
-docs
+.venv/
+
+docs/
+src/tools/explicacao_tools.md
+
+__pycache__/
+*.pyc
