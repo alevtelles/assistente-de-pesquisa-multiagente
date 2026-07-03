@@ -436,3 +436,14 @@ Este sistema multiagente funciona como uma equipe de pesquisa automatizada.
 O usuário fornece um tema, o Agente de Busca encontra fontes, o Agente Leitor extrai o conteúdo, a Cadeia de Escrita cria o relatório, a Cadeia de Crítica revisa a qualidade e o sistema entrega uma resposta final estruturada.
 
 A principal força da arquitetura está na divisão clara de responsabilidades e no uso do `state` como memória compartilhada entre as etapas.
+
+
+## Licença
+
+O código-fonte deste projeto está licenciado sob a **Apache License 2.0**.
+
+Os materiais didáticos, textos, explicações, imagens, diagramas e conteúdos relacionados ao curso de Desenvolvimento de Agentes ministrado no MBA IBMEC são disponibilizados apenas para fins educacionais, demonstração e portfólio.
+
+Não é permitida a cópia, redistribuição, modificação, venda ou uso comercial desses materiais didáticos sem autorização prévia do autor.
+
+Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes sobre a licença aplicada ao código-fonte.
