@@ -1,6 +1,8 @@
-def main():
-    print("Hello from 02!")
+from src.tools.tools import consulta_web
 
 
-if __name__ == "__main__":
-    main()
+output = consulta_web(
+    "Ultimas noticias sobre inteligencia artificial no Brasil e no mundo"
+)
+
+print(output)
